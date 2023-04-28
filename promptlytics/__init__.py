@@ -1,1 +1,1 @@
-from promptlytics import Promptlytics
+from .promptlytics import Promptlytics
